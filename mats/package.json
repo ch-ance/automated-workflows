@@ -1,0 +1,14 @@
+{
+  "name": "mats",
+  "version": "0.0.0",
+  "decription": "(ma)ke a new (t)ype(s)cript project in seconds.",
+  "keywords": [
+    "typescript",
+    "init",
+    "new"
+  ],
+  "author": "ch-ance",
+  "license": "ISC",
+  "private": false,
+  "type": "module"
+}
